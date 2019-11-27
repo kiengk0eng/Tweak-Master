@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.goadds
+Name: GoAdds™ (VIP)!
+Depends: mobilesubstrate
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Customize Followers, Full Analysis of Followers & Posts, Make New Friends, Speed Up by 200%, no Followers Drop, hide ADS
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/goadds/index.html

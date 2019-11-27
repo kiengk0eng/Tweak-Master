@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.carrot
+Name: CARROT Weather® (Ultrapremium)!
+Depends: mobilesubstrate
+Version: 4.7
+Architecture: iphoneos-arm
+Description: Unlock Customization, Notifications, Weather Underground Data, and more!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/carrot/index.html

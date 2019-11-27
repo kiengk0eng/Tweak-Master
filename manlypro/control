@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.manlypro
+Name: Manly® (PRO)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Access All Features - Over 1000 Styles & Many More
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/manlypro/index.html

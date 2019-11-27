@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.sygicpremium
+Name: Sygic® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cookpit, Photo Navigation, Travelbooks, Real View Navigation, Dashcam, Head-up Display
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Navigation
+Depiction: https://kiengk0eng.github.io/depictions/sygic/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.camscanner
+Name: CamScanner™ (Premium)!
+Depends: mobilesubstrate
+Version: 5.5.2.16205
+Architecture: iphoneos-arm
+Description: Collage, Auto upload to third-party cloud service, High quality scan, Export OCR result, No default watermark on PDF, Created unlimited number of folder, Free Ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/camscanner/index.html

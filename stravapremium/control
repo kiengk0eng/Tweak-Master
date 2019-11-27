@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.stravapremium
+Name: Strava® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: More Features More Fun, Personalized Coaching, Real Time Feedback, Advanced Analysis, Premium Perks
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Navigation
+Depiction: https://kiengk0eng.github.io/depictions/strava/index.html

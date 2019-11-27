@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.evernote
+Name: Evernote® (Subscriber)!
+Depends: mobilesubstrate
+Version: 8.16.3
+Architecture: iphoneos-arm
+Description: Unlimited devices, More monthly uploads, Large notes - 200 Mb, Offline access to notebooks!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/evernote/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.supervpn
+Name: SuperVPN® (Premium)!
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Faster Connection, Worldwide Server, No Ads, Unlimited Bandwidth!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/supervpn/index.html

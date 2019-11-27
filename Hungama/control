@@ -1,0 +1,10 @@
+Package: me.kiengk0eng.hungama
+Name: Hungama® (Pro)!
+Depends: mobilesubstrate
+Version: 5.0.1
+Architecture: iphoneos-arm
+Description: Streaming - Downloading music and videos, Discover the largest collection of music - videos and your very own radio
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/hungama/index.html

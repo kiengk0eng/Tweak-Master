@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.carrot
+Name: Deezer® (Patch)!
+Depends: mobilesubstrate
+Version: 6.39.0
+Architecture: iphoneos-arm
+Description: no More ADS!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/deezer/index.html

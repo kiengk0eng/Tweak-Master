@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.flightradar24
+Name: FlightRadar24™ (GOLD)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Everything in Silver, Aeronautical Charts, Aviation Weather Layers, More Flight Details, ATC Boundaries, Flight Playback (365 Days & More)
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Navigation
+Depiction: https://kiengk0eng.github.io/depictions/flightradar24/index.html

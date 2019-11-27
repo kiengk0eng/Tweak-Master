@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.ulysses
+Name: Ulysses® (Subscription)!
+Depends: mobilesubstrate
+Version: 13.1
+Architecture: iphoneos-arm
+Description: A Text Production Powerhouse, All Your Texts All The Time, Create eBooks, Docx, Pdfs, Html and More!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/ulysses/index.html

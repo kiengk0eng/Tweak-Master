@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.hexatech
+Name: Hexatech® VPN (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Several Location Options, Faster Connection, No ads, High Quality Support
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/hexatech/index.html

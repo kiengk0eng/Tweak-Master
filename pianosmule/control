@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.pianosmule
+Name: Magic Piano® Smule (VIP)!
+Depends: mobilesubstrate
+Version: 8.3.3
+Architecture: iphoneos-arm
+Description: All Access Pass
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/magicpiano/index.html

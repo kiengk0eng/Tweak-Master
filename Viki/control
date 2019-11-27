@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.viki
+Name: ViKi™ TV & Drama (Viki Pass)!
+Depends: mobilesubstrate
+Version: 5.2.0
+Architecture: iphoneos-arm
+Description: Enjoy Ad free and HD quality across all your devices
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/viki/index.html

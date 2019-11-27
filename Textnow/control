@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.textnow
+Name: TextNOW® (Premium)!
+Depends: mobilesubstrate
+Version: 8.35.1
+Architecture: iphoneos-arm
+Description: Remove ads, lock-in your phone number, get call forwading and more!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/textnow/index.html

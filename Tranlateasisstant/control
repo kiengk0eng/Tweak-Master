@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.translateassistant
+Name: Translate Assistant® (Pro~Premium)!
+Depends: mobilesubstrate
+Version: 1.0.9
+Architecture: iphoneos-arm
+Description: Unlimited Translation, No Ads!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/translateassistant/index.html

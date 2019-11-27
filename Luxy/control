@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.luxy
+Name: Luxy® (VIP Platinum & Luxy Start)!
+Depends: mobilesubstrate
+Version: 5.2.40
+Architecture: iphoneos-arm
+Description: Emblem, Skip Vouch, Black Message, Unlimited Card Swipes, Know More Features
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/luxy/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.darkroompremium
+Name: Darkroom® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock all 20 Premium Filter, Curve, Color Tools
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/darkroom/index.html

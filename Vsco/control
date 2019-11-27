@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.vsco
+Name: VSCO® (Subscription)!
+Depends: mobilesubstrate
+Version: 69.1
+Architecture: iphoneos-arm
+Description: Our Complete Preset Library, New Tools and Features, Educational Content!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/vsco/index.html

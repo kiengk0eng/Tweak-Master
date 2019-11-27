@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.youstarpaid
+Name: YouStar® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock Unlimited Subscriber, Unlock all Packs
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/youstar/index.html

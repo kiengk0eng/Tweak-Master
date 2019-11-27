@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.thevoice
+Name: The Voice™ (VIP)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited access to VIP songs, VIPs get twice the amount of gift s daily, Ad-free, Exlucive VIP badge, Red stage name, The following upper limit is upgraded from 1000 to 5000, more privilages are coming soon
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/thevoice/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.livewallpapers
+Name: LiveWallpapers® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Ad-Free, Early Access, Premium Content
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Wallpaper
+Depiction: https://kiengk0eng.github.io/depictions/livewallpapers/index.html

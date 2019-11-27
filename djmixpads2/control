@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.djmixpads2
+Name: DJMix™ Pads 2 (VIP)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Get Full Access, Update Collections of Sample & Loops, No ADS!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/djmixpad2/index.html

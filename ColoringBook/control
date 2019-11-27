@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.coloringbook
+Name: Coloring Book™ (Premium)!
+Depends: mobilesubstrate
+Version: 3.2
+Architecture: iphoneos-arm
+Description: Unlock all pictures, Use extra palletes, Enjoy more relaxing sound, Share without watermark, Remove ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/coloringbook/index.html

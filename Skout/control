@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.skout
+Name: Skout® (Premium)!
+Depends: mobilesubstrate
+Version: 5.7.1
+Architecture: iphoneos-arm
+Description: Boost your popularity, No More Ads, Rise to the Top, Skip to the Front!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/skout/index.html

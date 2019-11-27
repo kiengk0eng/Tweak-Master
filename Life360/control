@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.life360
+Name: Life360® (Premium)!
+Depends: mobilesubstrate
+Version: 16.6.1
+Architecture: iphoneos-arm
+Description: Driver Protect, Safe Drive Review, Unlimited Places, 30 Days of location History, Same Day Email Support!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Navigation
+Depiction: https://kiengk0eng.github.io/depictions/life360/index.html

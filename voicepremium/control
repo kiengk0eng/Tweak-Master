@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.voicepremium
+Name: VoiceTranslator® (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: No ADS, Offline Download Library, Unlimited
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/voice/index.html

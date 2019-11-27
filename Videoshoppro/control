@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.vsp
+Name: Videoshop® (Pro)!
+Depends: mobilesubstrate
+Version: 7.3.6
+Architecture: iphoneos-arm
+Description: No watermark, No adds, Reverse, Tilt shift, Backgroud, Transitions, Impose, Ken Burns, 4K Recording, Themes+, Filters+, Motion text, Gif Maker, Dub and more!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/videoshop/index.html

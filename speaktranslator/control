@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.speaktranslate
+Name: Speak & Translate (Premium)!
+Depends: mobilesubstrate
+Version: 4.3
+Architecture: iphoneos-arm
+Description: Unlimited translations, Offline translations, Ad free
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/speak/index.html

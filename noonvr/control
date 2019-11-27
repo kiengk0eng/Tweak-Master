@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.noonvr
+Name: NOON® VR (Trial Patch)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Kick the timer in free trial mode
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/noon/index.html

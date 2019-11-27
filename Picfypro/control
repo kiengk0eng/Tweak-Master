@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.picfypro
+Name: Picfy® (Pro)!
+Depends: mobilesubstrate
+Version: 3.2.05
+Architecture: iphoneos-arm
+Description: No annoying ads, New tools added every month, 300+ Designs & Filters, All store materials free of cost, Add unlimited photo & video drafts!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/picfy/index.html

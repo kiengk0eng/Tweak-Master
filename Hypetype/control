@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.hypetype
+Name: Hype Type® (Pro Subscription)!
+Depends: mobilesubstrate
+Version: 1.5.4
+Architecture: iphoneos-arm
+Description: All Animation Packs, Remove Watermark, Remove Ads!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/hypetype/index.html

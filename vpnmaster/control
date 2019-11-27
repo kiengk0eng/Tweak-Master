@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.vpnmaster
+Name:  VPN Master™ (VIP)!
+Depends: mobilesubstrate
+Version: 2.7.2
+Architecture: iphoneos-arm
+Description: Faster Connection, Worldwide Server, No Ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/vpnmaster/index.html

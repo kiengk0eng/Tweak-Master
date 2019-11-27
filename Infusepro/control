@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.infusepro
+Name: Infuse® 5 (PRO)!
+Depends: mobilesubstrate
+Version: 5.6.0
+Architecture: iphoneos-arm
+Description: Play more video, HD quality audio, AirPlay & Google Cast, Stay in sync, Cloud streaming, Updates for life
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/infuse/index.html

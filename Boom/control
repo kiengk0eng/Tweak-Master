@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.boom
+Name: BOOM® (Purchased)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove Ads, Enjoy 3D Surround, All EQ and Full Intensity Control
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/boom/index.html

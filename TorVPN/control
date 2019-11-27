@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.torvpn
+Name: TorVPN (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stay secure and anonymous, Access all website and apps, Enjoy the peace of mind
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/torvpn/index.html

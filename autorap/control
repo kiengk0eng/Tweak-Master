@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.autorap
+Name: AutoRap® (VIP)!
+Depends: mobilesubstrate
+Version: 2.3.5
+Description: All Access Pass - Play or remix with any beat from our library
+Architecture: iphoneos-arm
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/autorap/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.nightsky
+Name: Night Sky® (Premium)!
+Depends: mobilesubstrate
+Version: 6.0.1
+Architecture: iphoneos-arm
+Description: AR Grand Orrery, Live Sky Tours, My Tours, AR Planetary Portals, Space New!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/nightsky/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.singvip
+Name: Sing!® (VIP)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: All Access Pass - Sing without limmits, Sing millions of songs, ad free, Include VIP
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/sing/index.html

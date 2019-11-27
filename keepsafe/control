@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.keepsafe
+Name: KeepSafe® (Premium)!
+Depends: mobilesubstrate
+Version: 7.8
+Architecture: iphoneos-arm
+Description: Get every feature, Bigger Private Cloud, Space Saver, Trash Recovery, No Ads!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/keepsafe/index.html

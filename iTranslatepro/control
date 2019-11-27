@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.itranslatepro
+Name: iTranslate® (PRO)!
+Depends: mobilesubstrate
+Version: 12.2.1.1
+Architecture: iphoneos-arm
+Description: Offline Mode, Voice Conversations, Camera Translation, 100% Ad Free!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/itranslate/index.html

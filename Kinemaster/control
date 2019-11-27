@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.kinemaster
+Name: KineMaster® (PRO)!
+Depends: mobilesubstrate
+Version: 4.5.1
+Architecture: iphoneos-arm
+Description: Remove Watermark, Premium Content!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/kinemaster/index.html

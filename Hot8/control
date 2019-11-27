@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.hot8
+Name: Hot8™ (Subscription)!
+Depends: mobilesubstrate
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Offline Mode, Voice Translation, Verb Conjugations, 100% Free Ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/hot8/index.html

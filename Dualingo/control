@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.duolingo
+Name: Duolingo® (Plus Subscription)!
+Depends: mobilesubstrate
+Version: 5.2.34
+Architecture: iphoneos-arm
+Description: No Ads, Hassle Free, Offline Saving, Support Free Education and More!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/duolingo/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.weatherlive
+Name: Weather Live (Premium)!
+Depends: mobilesubstrate
+Version: 5.8
+Architecture: iphoneos-arm
+Description: No Ads, Interactive weather maps, Hurricane tracker
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/weatherlive/index.html

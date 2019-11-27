@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.overpremium
+Name: Over® (PRO)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 30000+Graphics & Fonts
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/over/index.html

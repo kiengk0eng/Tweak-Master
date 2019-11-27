@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.musixmatch
+Name: Musixmatch® (Purchased)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Description: Enjoy your music with lyrics, Learn a language with translated lyrics, Lyrics for your music on the Lock Screen and more
+Depiction: https://kiengk0eng.github.io/depictions/musixmatch/index.html

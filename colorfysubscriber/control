@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.colorfysubscription
+Name: ColorfyPlus® (Subscription)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Access to image, Daily Update, Colors, No ADS
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/colorfy/index.html

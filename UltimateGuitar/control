@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.ultimateguitar
+Name: Ultimate Guitar® (PRO)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 286K Interactive Tabs, 7K Backing Track, Metronome, Guitar Tuner, Simplify Chord, Transpose, Ad Free, Export and More...!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/ultimateguitar/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.scannerfmpremium
+Name: Scanner™ for me (Premium)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlimited Sharing, Text Recognition (OCR), Sign & Highlight, No Watermark, No Ads!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/scannerforme/index.html

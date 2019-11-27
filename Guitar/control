@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.guitar
+Name: Guitar!™ (VIP)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: All Access Pass - Unlimited access to all guitars and songs, iclude VIP songs!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/guitar/index.html

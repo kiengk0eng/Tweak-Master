@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.topbrowser
+Name: Top Browser (Premium)!
+Depends: mobilesubstrate
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Browser Anonymous, Bypass All Website Restrictions, Hide IP & Identity, No Annoying Popup Ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/topbrowser/index.html

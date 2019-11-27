@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.pakihd
+Name: PakIndia HDTV® (Ad Patch)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Kill Ad!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/paki/index.html

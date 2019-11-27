@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.tinder
+Name:Tinder® (Patch)!
+Depends: mobilesubstrate
+Version: 9.3.0
+Architecture: iphoneos-arm
+Description: Just For Tester & Don’t Share This Patch!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/tinder/index.html

@@ -1,0 +1,10 @@
+Package: me.kiengk0eng.memrise
+Name: Memrise® (Premium)!
+Depends: mobilesubstrate
+Version: 2.3.36.7348
+Architecture: iphoneos-arm
+Description: Learn with local, Pronunciation, Listening Skills, Grammarbot, Chatbots, Difficult Words, Speed Review, Learn Offline, Hints!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/memrise/index.html

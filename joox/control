@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.joox
+Name: JOOX® Music (VVIP)!
+Depends: mobilesubstrate
+Version: 4.4.3
+Architecture: iphoneos-arm
+Description: Streaming or Download with High Quality, K-Plus with Unlimited Save Your Song, DTS (Lifetime)
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/joox/index.html

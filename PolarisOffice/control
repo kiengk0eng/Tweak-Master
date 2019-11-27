@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.polarisoffice
+Name: PolarisOffice (Pro Edition)!
+Depends: mobilesubstrate
+Version: 7.3.27
+Architecture: iphoneos-arm
+Description: Edit PDF Documents, Annonate On PDF, Export to PDF, Search Body Contents, Various Pen Styles, Remove ADS
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/polaris/index.html

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.focos
+Name: FOCOS® (Lifetime Subscription Access)!
+Depends: mobilesubstrate
+Version: 1.4.4
+Architecture: iphoneos-arm
+Description: Unlock All Professional Effect, and more!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/focos/index.html

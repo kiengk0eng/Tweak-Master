@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.vikipass
+Name: Viki Rakuten® (PASS)!
+Depends: mobilesubstrate
+Version: 5.6.1.952
+Architecture: iphoneos-arm
+Description: Enjoy Ad free & HD Quality!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/vikipass/index.html

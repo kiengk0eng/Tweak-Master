@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.geozilla
+Name: Geozilla® (Premium)!
+Depends: mobilesubstrate
+Version: 4.7
+Architecture: iphoneos-arm
+Description: Invisible Mode, Schedule Alerts, Location History For Every Day, Unlimited Location Alerts, Unlimited Circles, Connect Wearables!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Navigation
+Depiction: https://kiengk0eng.github.io/depictions/geozilla/index.html

@@ -1,0 +1,7 @@
+{
+    Filter =     {
+        Bundles =         (
+            "co.visualsupply.cam"
+        );
+    };
+}

@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.wattpad
+Name:  Wattpad™ (Premium)!
+Depends: mobilesubstrate
+Version: 6.63.0
+Architecture: iphoneos-arm
+Description: Uninterrupted ads-free experience, First access to new features
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/wattpad/index.html

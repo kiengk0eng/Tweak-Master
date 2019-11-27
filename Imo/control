@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.imopre
+Name: IMO® (Premium Account)!
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: No Ads, 25GB Cloud Storage for your photos and videos, And more coming soon!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/imopre/index.html

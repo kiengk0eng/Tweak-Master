@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.betternet
+Name: Betternet™ VPN(Premium)!
+Depends: mobilesubstrate
+Version: 1:0.0.1-1
+Architecture: iphoneos-arm
+Description: Faster Connections, Worldwide Location
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Utilities
+Depiction: https://kiengk0eng.github.io/depictions/betternet/index.html

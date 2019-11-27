@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.cguitar
+Name: COACH Guitar® (Premiun Pass)!
+Depends: mobilesubstrate
+Version: 5.3.1
+Architecture: iphoneos-arm
+Description: Unlimited access to all leason, Available on all devices, Tablatures included, Backing track included, New leassons every tweak and more!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/cguitar/index.html

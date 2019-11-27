@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.matchcom
+Name: Match.com™ (Subscriber)!
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Send Unlimited Messages, See Who Viewed You, Unlock Your Inbox, Show Interest, See Who's Interested, Connections, Block From Search, >[TopSpot Not Include]
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/match.com/index.html

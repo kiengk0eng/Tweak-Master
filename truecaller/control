@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.truecaller
+Name: TrueCaller™ (Pro)!
+Depends: mobilesubstrate
+Version: 8.40
+Architecture: iphoneos-arm
+Description: Get the pro badge on your profile, Get 30 contact request per mounth, Remove all ads
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Productivity
+Depiction: https://kiengk0eng.github.io/depictions/truecaller/index.html

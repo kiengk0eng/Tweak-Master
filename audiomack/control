@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.audiomack
+Name: AudioMack® (Platinum)!
+Depends: mobilesubstrate
+Version: 3.9.2
+Architecture: iphoneos-arm
+Description: Steam and download great new music, save data million offline song, Discover the hottest new trending music
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Entertainment
+Depiction: https://kiengk0eng.github.io/depictions/audiomack/index.html

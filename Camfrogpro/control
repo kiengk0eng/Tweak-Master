@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.camfrogpro
+Name: Camfrog® (Pro)!
+Depends: mobilesubstrate
+Version: 7.8.14
+Architecture: iphoneos-arm
+Description: Ad-free experience, Multiple video in chat rooms, red colored nickname, member list sorting!
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Social
+Depiction: https://kiengk0eng.github.io/depictions/camfrogpro/index.html

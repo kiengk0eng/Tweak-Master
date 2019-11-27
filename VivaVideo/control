@@ -1,0 +1,10 @@
+Package: com.kiengk0eng.vivavideo
+Name: VivaVideo (Platinum VIP)!
+Depends: mobilesubstrate
+Version: 6.3.0
+Architecture: iphoneos-arm
+Description: Watermark Remove, HD Export (1080), No Limite Time, No Ads, Video Adjustment, Animated Text, Free Materials Usage
+Maintainer: kiengk0eng <kiengk0eng@yahoo.com>
+Author: kiengk0eng <kiengk0eng@yahoo.com>
+Section: Multimedia
+Depiction: https://kiengk0eng.github.io/depictions/vivavideo/index.html
